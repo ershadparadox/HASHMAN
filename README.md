@@ -24,6 +24,6 @@ like the :
 # Who To Install 
 
 * ` git clone https://github.com/ershadparadox/HASHMAN`
-* ` cd HASHMAN`
+* ` cd HASHMAN/HASHMAN`
 * ` python3 -r install requirements.txt`
 * ` python3 HASHMAN.py`
