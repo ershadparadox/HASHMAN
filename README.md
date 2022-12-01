@@ -1,4 +1,4 @@
-# █ ▇ ▆ ▅ ▄ ▃ ▂ ▁ HASH MAN ▁ ▂ ▃ ▄ ▅ ▆ ▇ █
+# 🔥 HASH MAN 🔥
 **A useful tool for converting text into hash types** 
 
 ![Program Environment](https://s6.uupload.ir/files/screenshot_2022-11-30_21_31_43_19ef.jpg)
