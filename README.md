@@ -5,8 +5,8 @@
 
 
 # What is this
-‍‍‍** This is a tool to convert text to hash that supports most hashes.
-like the : **
+‍‍‍**This is a tool to convert text to hash that supports most hashes.
+like the :**
 
 1. md5
 2. sha1
